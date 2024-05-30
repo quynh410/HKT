@@ -169,7 +169,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[1] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(1)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -193,7 +193,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[2] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(2)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -217,7 +217,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[3] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(3)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -241,7 +241,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[4] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(4)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -265,7 +265,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[5] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(5)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -289,7 +289,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[6] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(6)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -313,7 +313,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[7] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(7)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -337,7 +337,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[8] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(8)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -361,7 +361,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[9] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(9)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -385,7 +385,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[10] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(10)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -409,7 +409,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[11] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(11)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -433,7 +433,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[12] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(12)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -457,7 +457,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[13] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(13)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -481,7 +481,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[14] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(14)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -505,7 +505,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[15] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(15)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -529,7 +529,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[16] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(16)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -553,7 +553,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[17] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(17)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -577,7 +577,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[18] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(18)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -601,7 +601,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[19] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(19)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -625,7 +625,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[20] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(20)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -649,7 +649,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[21] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(21)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -673,7 +673,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[22] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(22)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -697,7 +697,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[23] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(23)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -721,7 +721,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[24] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(24)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -747,7 +747,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[25] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(25)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -772,7 +772,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[26] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(26)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -796,7 +796,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[27] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(27)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -820,7 +820,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[28] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(28)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -846,7 +846,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[29] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(29)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -869,7 +869,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[30] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(30)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -892,7 +892,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[31] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(31)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -915,7 +915,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[32] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(32)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -938,7 +938,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[33] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(33)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -961,7 +961,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[34] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(34)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -984,7 +984,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[35] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(35)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -1007,7 +1007,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[36] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(36)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -1030,7 +1030,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[37] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(37)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -1053,7 +1053,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[38] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(38)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -1076,7 +1076,7 @@ export default function Index() {
                   className={`text-xl mr-2 ${
                     likes[39] ? "text-red-500" : "text-gray-500"
                   }`}
-                  onClick={() => toggleLike(0)}
+                  onClick={() => toggleLike(39)}
                 >
                   <i className="fa-solid fa-heart"></i>
                 </button>
@@ -1090,7 +1090,7 @@ export default function Index() {
           </div>
         </div>
       </body>
-      <footer className="bg-gray-400 text-white w-screen h-[200px] py-8 flex justify-around items-center">
+      <footer className="bg-red-500 text-white w-screen h-[200px] py-8 flex justify-around items-center">
         <div className="flex flex-col items-center">
           <h3 className="font-bold">CHĂM SÓC KHÁC HÀNG</h3>
           <p>Trung Tâm trợ giúp</p>
